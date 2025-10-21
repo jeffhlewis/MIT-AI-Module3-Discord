@@ -3,7 +3,8 @@
 This repo contains the code used for the MIT Applied Agentic AI for Organizational Transformation (DT-ENG-017) Module 3 assignment. It runs the logic behind a Discord bot that integreates with the ChatGPT API to respond to user questions.
 
 ## Running this Code
-To run this Python script, you need to have a file called `.env` in the root directory that contains two configuration settings:
+* `bot.py` is the only Python script you need to run
+* To run this Python script, you need to have a file called `.env` in the root directory that contains two configuration settings:
 
 ```
 TOKEN={DISCORD_TOKEN}
