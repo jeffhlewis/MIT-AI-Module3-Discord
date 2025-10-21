@@ -1,5 +1,5 @@
 # MIT-AI-Module3-Discord
-## Discord bot demo for MIT Agentic IC Course Module 3
+## Discord bot demo for MIT Agentic AI Course Module 3
 This repo contains the code used for the MIT Applied Agentic AI for Organizational Transformation (DT-ENG-017) Module 3 assignment. It runs the logic behind a Discord bot that integreates with the ChatGPT API to respond to user questions.
 
 ## Running this Code
